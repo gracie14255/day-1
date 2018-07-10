@@ -59,3 +59,6 @@ header {
 	grid-template-columns:20% auto 20%;
 	grid-template-rows: auto 1fr auto;
 }
+p{
+	font-size:20px;
+}

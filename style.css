@@ -30,26 +30,31 @@ header {
  	background-color: lightblue;
  	grid-column: span 3;
  	padding: 16px;
+ 	text-align: center;
  }
  nav {
  	background-color: lightgreen;
  	padding: 16px;
+ 	background-image:url(catbackground2.jpg);
 
  }
  main{
  	background-color: gray;
  	padding: 16px;
+ 	background-image: url(catbackground.jpg);
 
  }
  aside{
  	background-color: pink;
  	padding: 16px;
+ 	background-image: url(catbackground2.jpg);
 
  }
  footer{
  	background-color: purple ;
  	grid-column: span 3;
  	padding: 16px;
+ 	color: white;
 
  }
 .container {
